@@ -23,6 +23,7 @@ const SearchManufacturer = ({
         );
 
       console.log(filteredmanufacturers)  
+      
   return (
     <div className="search-manufacturer">
       <Combobox value={manufacturer} onChange={setManufacturer}>

@@ -1,7 +1,6 @@
 import { Inter } from "next/font/google";
 import {
   CarCard,
-  CarDetails,
   CustomFilter,
   Hero,
   SearchBar,
